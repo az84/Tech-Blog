@@ -1,6 +1,6 @@
-# 14 Model-View-Controller (MVC): Tech Blog
+# Tech Blog
 
-## Your Task
+## Summary
 
 Writing about tech can be just as important as making it. Developers spend plenty of time creating new applications and debugging existing codebases, but most developers also spend at least some of their time reading and writing about technical concepts, recent advancements, and new technologies. A simple Google search for any concept covered in this course returns thousands of think pieces and tutorials from developers of all skill levels!
 
@@ -9,14 +9,6 @@ Your task this week is to build a CMS-style blog site similar to a Wordpress sit
 Website Link: https://pacific-gorge-14982.herokuapp.com/
 
 ## User Story
-
-```md
-AS A developer who writes about tech
-I WANT a CMS-style blog site
-SO THAT I can publish articles, blog posts, and my thoughts and opinions
-```
-
-## Acceptance Criteria
 
 ```md
 GIVEN a CMS-style blog site
@@ -53,7 +45,10 @@ THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 ```
+## Contact
 
+- [Github](https://github.com/az84)
+- [LinkedIn](https://www.linkedin.com/in/alina-z-092703199/)
 
 
 
